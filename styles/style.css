@@ -1,0 +1,129 @@
+
+.desktop-header-nav{
+    height: 3.75rem;
+}
+.mycontainer{
+    max-width: 97%;
+    margin: 0 auto;
+}
+.hirebtn{
+    width: 4.313rem;
+}
+.fasele66{
+    margin-bottom: 4.125rem;
+}
+.fasle88{
+    margin-top: 5.5rem;
+}
+.padb88{
+    padding-bottom: 5.5rem;
+}
+.fasele100{
+    margin-top: 6.25rem;
+}
+.fasele136{
+    margin-top: 8.5rem;
+}
+.pad144{
+    padding-top: 9rem;
+}
+.myjob-title{
+    line-height: 5.688rem;
+}
+.box-statics{
+    width: 30%;
+}
+.skill-boxs{
+    margin-top: 8.25rem;
+    margin-bottom: 8.5rem;
+}
+.how-texts-p{
+    line-height: 1.813rem;
+}
+.how-texts-p1{
+    color: #D5D5D5;
+    width: 90%;
+    line-height: 1.875rem;
+}
+.how-texts-p2{
+    width: 35%;
+    line-height: 3.5rem;
+}
+.hirebtn{
+    width: 7.563rem;
+    height: 3.375rem;
+}
+.appbg{
+    width: 5rem;
+    height: 5rem;
+}
+.btn-active{
+    border: none;
+    border-radius: 0.25rem;
+    width: 3.813rem;
+    height: 2.5rem;
+}
+.btn-disactive{
+    border: none;
+    background-color: transparent;
+
+}
+.works-title{
+    line-height: 3.5rem;
+}
+.comment-text{
+    width: 70%;
+    font-size: 1.25rem;
+    line-height: 2.125rem;
+    color: #000000;
+}
+.user-name{
+    font-size: 1.25rem;
+}
+.user-job{
+    line-height: 2.125rem;
+}
+.comment{
+    width: 30%;
+}
+.box{
+    width: 3.063rem;
+    border: 0.625rem solid #FFB742;
+}
+.box2{
+    width: 1.25rem;
+    border: 0.625rem solid #BB842C;
+}
+.start-project{
+    width: 70%;
+    height: 9.375rem;
+}
+.hamkarbtn{
+    line-height: 1.875rem;
+    height: 3.125rem;
+}
+.start-project-text{
+    width: 359px;
+    line-height: 1.875rem;
+}
+.inter-email{
+    width: 60%;
+}
+.send-email-btn{
+    width: 4rem;
+    height: 4rem;
+}
+::placeholder{
+    background-color: transparent;
+    border: none;
+}
+.email-send-input{
+    background-color: transparent;
+    border: none;
+}
+.email-send-li{
+    width: 75%;
+}
+.start-work-white-me{
+    transform: translateY(50%);
+}
